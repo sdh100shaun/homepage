@@ -131,7 +131,7 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
-.keySkills {
+.skill {
 	list-style-type: none;
 	-moz-column-count:3;
 	-webkit-column-count:3;
